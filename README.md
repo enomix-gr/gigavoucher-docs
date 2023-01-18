@@ -1,2 +1,4 @@
-# gigavoucher-docs
-Documentation for the Gigavoucher Platform
+# Τεκμηρίωση της πλατφόρμας Gigavoucher
+
+- Χρήση Πλατφόρμας
+- [API](api)
