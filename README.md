@@ -1,4 +1,4 @@
 # Τεκμηρίωση της πλατφόρμας Gigavoucher
 
-- Χρήση Πλατφόρμας
+- [Διαδικασία](https://github.com/enomix-gr/gigavoucher-docs/wiki/process)
 - [API](https://github.com/enomix-gr/gigavoucher-docs/wiki/api)
